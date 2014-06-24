@@ -1,0 +1,18 @@
+{
+    "__repositories": [
+        {
+            "type": "pear",
+            "url": "http://pear2.php.net"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "bower",
+            "url": "http://bower.herokuapp.com/packages/",
+            "listUrl": "https://bower-component-list.herokuapp.com/"
+        }
+    ],
+    "require": {
+        "pear-pear2.php.net/PEAR2_Text_Markdown": "*"
+    }
+}
